@@ -1,0 +1,6 @@
+{
+  "name": "Sai Arts",
+  "description": "An immersive, cinematic artwork portfolio and premium gallery experience showcasing the fine art, paintings, and sketches of Sai Arts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
